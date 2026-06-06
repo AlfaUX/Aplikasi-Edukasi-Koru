@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 1a24a81f35abb2347a758cf9135cd46f
+  - enabled: 1
+    path: Assets/Scenes/AR.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Metamorphosis.unity
+    guid: f9b2b08bdf3d2144b9eece72d728dd3f
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 580c4c301b3f72c42bc096cfe55333b5
+  - enabled: 1
+    path: Assets/Scenes/pilihmeta.unity
+    guid: 2d9ad18c658d9b14c8e7aa140ae9899d
+  - enabled: 1
+    path: Assets/Scenes/Scene Deskripsi.unity
+    guid: cf96cefe1c3e5f34dbd1a0fe74ca50d4
+  m_configObjects: {}

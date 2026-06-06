@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Larva_Katak" size="1.000000 0.767994" />
+    <ImageTarget name="Pupa_Nyamuk" size="1.000000 0.666667" />
+    <ImageTarget name="Larva_Capung" size="1.000000 0.666667" />
+    <ImageTarget name="Nimfa_Capung" size="1.000000 0.666667" />
+    <ImageTarget name="Telur_Belalang" size="1.000000 0.666667" />
+    <ImageTarget name="NimfaD_Belalang" size="1.000000 0.666667" />
+    <ImageTarget name="Kecoa_M" size="1.000000 0.667101" />
+    <ImageTarget name="Telur_Kecoa" size="1.000000 0.666667" />
+    <ImageTarget name="NimfaM_Belalang" size="1.000000 0.667101" />
+    <ImageTarget name="Telur_Capung" size="1.000000 0.667752" />
+    <ImageTarget name="Nimfa_Kecoa" size="1.000000 0.600000" />
+    <ImageTarget name="Nimfa_Nyamuk" size="1.000000 0.698113" />
+    <ImageTarget name="Larva_Nyamuk" size="1.000000 0.698113" />
+    <ImageTarget name="Telur_Nyamuk" size="1.000000 0.698113" />
+    <ImageTarget name="Pupa_Katak" size="1.000000 0.698113" />
+    <ImageTarget name="Nimfa_Katak" size="1.000000 0.698113" />
+    <ImageTarget name="Pupa_Kupu" size="1.000000 0.819620" />
+    <ImageTarget name="Telur_Katak" size="1.000000 0.699060" />
+    <ImageTarget name="Nimfa_Kupu" size="1.000000 0.809375" />
+    <ImageTarget name="Larva_Kupu" size="1.000000 0.817035" />
+    <ImageTarget name="Telur_Kupu" size="1.000000 0.809375" />
+  </Tracking>
+</QCARConfig>

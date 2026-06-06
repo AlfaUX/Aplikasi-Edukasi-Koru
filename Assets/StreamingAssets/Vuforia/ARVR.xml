@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="larva" size="1.000000 1.574373" />
+    <ImageTarget name="telur" size="1.000000 1.574373" />
+    <ImageTarget name="nimfa" size="1.000000 1.574895" />
+    <ImageTarget name="pupa" size="1.000000 1.574895" />
+  </Tracking>
+</QCARConfig>
